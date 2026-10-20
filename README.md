@@ -1,6 +1,6 @@
 # 🏠 HA – karty do Home Assistanta
 
-Karty Lovelace do Home Assistanta, pogrupowane tematycznie. Każda karta ma własny folder z plikiem `.js`, opisem, zrzutami i instrukcją instalacji.
+Karty Lovelace do Home Assistanta, pogrupowane tematycznie. Na start: 🪟 okna. Każda karta ma własny folder z plikiem `.js`, opisem, zrzutami i instrukcją instalacji.
 
 *Lovelace cards for Home Assistant, grouped by topic. Each card has its own folder with the `.js` file, description, screenshots and install guide.*
 
@@ -10,8 +10,6 @@ Karty Lovelace do Home Assistanta, pogrupowane tematycznie. Każda karta ma wła
 |---|---|---|---|
 | 🪟 [okna](okna/) | [Roleta dzień-noc](okna/roleta-realistyczna/) | v22 | Roleta dzień-noc na oknie: animacja w tempie silnika, pogoda za oknem, kreator |
 | 🪟 [okna](okna/) | [Edytor Enhanced Shutter Card](okna/esc-editor/) | v1 | Edytor wizualny dla karty `enhanced-shutter-card` z HACS |
-| 🧩 [pulpit](pulpit/) | [Blokada kafelka](pulpit/blokada-kafelka/) | v6 | Kłódka na dowolną kartę, żeby nikt nie kliknął przez przypadek |
-| 📅 [harmonogramy](harmonogramy/) | [Harmonogramy Shelly](harmonogramy/shelly-schedule-card/) | v18 | Harmonogramy w stylu aplikacji Shelly (dane: Scheduler) |
 
 ## ⬇️ Instalacja (każda karta)
 

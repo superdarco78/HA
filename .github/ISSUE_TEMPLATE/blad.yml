@@ -6,7 +6,7 @@ body:
     id: karta
     attributes:
       label: Karta / Card
-      options: [Roleta dzień-noc, Edytor Enhanced Shutter Card, Blokada kafelka, Harmonogramy Shelly]
+      options: [Roleta dzień-noc, Edytor Enhanced Shutter Card]
     validations: { required: true }
   - type: input
     id: wersja
