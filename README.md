@@ -1,25 +1,13 @@
-# 🏠 HA – karty do Home Assistanta
+<h1 align="center">🏠 HA – karty superdarco78 do Home Assistanta</h1>
 
-Karty Lovelace do Home Assistanta, pogrupowane tematycznie. Na start: 🪟 okna. Każda karta ma własny folder z plikiem `.js`, opisem, zrzutami i instrukcją instalacji.
+<p align="center">Spis wszystkich moich kart. Każda karta ma własne repozytorium, instalację przez HACS i automatyczne aktualizacje.<br>
+<sub>🇬🇧 Index of my Home Assistant cards. Each card lives in its own repository with HACS install and automatic updates.</sub></p>
 
-*Lovelace cards for Home Assistant, grouped by topic. Each card has its own folder with the `.js` file, description, screenshots and install guide.*
+## 🪟 Okna
 
-## 📂 Zawartość
+| Karta | Opis | Wersja | Instalacja |
+|---|---|:---:|:---:|
+| <a href="https://github.com/superdarco78/roleta-realistyczna"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/stany/dzien.png" width="140"></a><br>[**Roleta dzień-noc**](https://github.com/superdarco78/roleta-realistyczna) | Realistyczna roleta dzień-noc na oknie: animacja w tempie silnika, pogoda i pora dnia za oknem, kreator, PL/EN | [![Release](https://img.shields.io/github/v/release/superdarco78/roleta-realistyczna?style=for-the-badge&label=)](https://github.com/superdarco78/roleta-realistyczna/releases) | [![Otwórz w HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=superdarco78&repository=roleta-realistyczna&category=plugin) |
 
-| Temat | Karta | Wersja | Co robi |
-|---|---|---|---|
-| 🪟 [okna](okna/) | [Roleta dzień-noc](okna/roleta-realistyczna/) | v22 | Roleta dzień-noc na oknie: animacja w tempie silnika, pogoda za oknem, kreator |
-| 🪟 [okna](okna/) | [Edytor Enhanced Shutter Card](okna/esc-editor/) | v1 | Edytor wizualny dla karty `enhanced-shutter-card` z HACS |
-
-## ⬇️ Instalacja (każda karta)
-
-1. Pobierz plik `.js` z folderu karty i wgraj go do `/config/www/` (np. przez dodatek **File editor** albo **Samba**).
-2. **Ustawienia → Pulpity → ⋮ (prawy górny róg) → Zasoby → Dodaj zasób**
-   - Adres: `/local/nazwa-pliku.js`
-   - Typ: **Moduł JavaScript**
-3. Odśwież przeglądarkę (Ctrl+Shift+R) albo aplikację HA.
-4. Pulpit → **Edytuj → Dodaj kartę** → wyszukaj kartę po nazwie.
-
-## 📜 Licencja
-
-[CC BY-NC-SA 4.0](LICENSE) – do własnego, niekomercyjnego użytku, z podaniem autora. Sprzedaż i użycie komercyjne zabronione.
+---
+<p align="center"><sub>Kolejne rodzaje kart pojawią się tu jako nowe sekcje. Licencja kart: CC BY-NC-SA 4.0.</sub></p>
