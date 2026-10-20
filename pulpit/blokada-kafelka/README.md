@@ -1,4 +1,4 @@
-# 🔒 Blokada kafelka (`blokada-kafelka`) – v6
+# 🔒 Blokada kafelka
 
 Kłódka na dowolną kartę pulpitu. Zablokowanej karty nie da się kliknąć przez przypadek (np. dziecko, kieszeń). Odblokowanie przytrzymaniem, dwuklikiem, PIN-em albo potwierdzeniem, potem sama blokuje się po kilku sekundach.
 

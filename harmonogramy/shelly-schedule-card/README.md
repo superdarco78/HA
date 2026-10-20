@@ -1,4 +1,4 @@
-# 📅 Harmonogramy Shelly (`shelly-schedule-card`) – v18
+# 📅 Harmonogramy Shelly
 
 Harmonogramy w wyglądzie aplikacji Shelly: kafelki urządzeń, dni tygodnia, godziny, włącz/wyłącz. Dane trzyma integracja **Scheduler** (HACS: `scheduler-component`).
 

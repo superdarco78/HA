@@ -1,4 +1,4 @@
-# 🪟 Edytor do Enhanced Shutter Card (`esc-editor`) – v1
+# 🪟 Edytor do Enhanced Shutter Card
 
 Karta [Enhanced Shutter Card](https://github.com/marcelhoogantink/enhanced-shutter-card) z HACS nie ma edytora wizualnego. Ten plik go dokłada: encja, nazwa, obrazki okna, rozmiar i położenie, stany. Samej karty nie zmienia, a pola, których edytor nie zna, zostają w YAML bez zmian.
 

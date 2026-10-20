@@ -1,0 +1,21 @@
+name: 🐞 Zgłoś błąd / Bug report
+description: Coś nie działa w jednej z kart
+labels: [bug]
+body:
+  - type: dropdown
+    id: karta
+    attributes:
+      label: Karta / Card
+      options: [Roleta dzień-noc, Edytor Enhanced Shutter Card, Blokada kafelka, Harmonogramy Shelly]
+    validations: { required: true }
+  - type: input
+    id: wersja
+    attributes:
+      label: Wersja karty i Home Assistanta / Card and HA version
+      placeholder: np. v22, HA 2026.10
+  - type: textarea
+    id: opis
+    attributes:
+      label: Co się dzieje? / What happens?
+      description: Opisz krótko, dołącz zrzut ekranu i konfigurację karty (YAML).
+    validations: { required: true }

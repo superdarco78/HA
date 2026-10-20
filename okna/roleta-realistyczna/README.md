@@ -1,4 +1,4 @@
-# 🪟 Roleta dzień-noc (`roleta-realistyczna`) – v22
+# 🪟 Roleta dzień-noc
 
 Roleta dzień-noc (zebra) na prawdziwym oknie z 1 albo 2 skrzydłami. Roletę przesuwasz palcem, animacja jedzie w tempie silnika, a za szybą widać aktualną pogodę z Home Assistanta.
 
