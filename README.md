@@ -94,8 +94,8 @@ Chcesz wiedzieć, kiedy wyjdą? Kliknij **Watch → Custom → Releases** na str
 
 Każda karta instaluje się tak samo. Co kliknąć, pokazują obrazki. Po dodaniu karty kreator zrobi resztę.
 
-<p align="center"><a name="i25" href="#i25"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/instrukcja/pl/hacs-1.png" width="49%" alt="Krok 1"></a> <a name="i26" href="#i26"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/instrukcja/pl/hacs-2.png" width="49%" alt="Krok 2"></a></p>
-<p align="center"><a name="i27" href="#i27"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/instrukcja/pl/dodaj-karte.png" width="100%" alt="Krok 3"></a></p>
+<p align="center"><a name="i25" href="#i25"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/zrzuty/pl/hacs-1.png" width="49%" alt="Krok 1"></a> <a name="i26" href="#i26"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/zrzuty/pl/hacs-2.png" width="49%" alt="Krok 2"></a></p>
+<p align="center"><a name="i27" href="#i27"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/zrzuty/pl/dodaj-karte.png" width="100%" alt="Krok 3"></a></p>
 
 
 Bez HACS też się da. Każda karta ma w instrukcji rozdział „Ręcznie” z obrazkami.
