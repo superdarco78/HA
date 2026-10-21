@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/main/img/avatar-kolo.png" width="150" alt="superdarco78"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/main/img/avatar-dev-2-kolo.png" width="150" alt="superdarco78"></p>
 
 <h1 align="center">🏠 Karty do Home Assistanta</h1>
 
