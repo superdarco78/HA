@@ -15,21 +15,23 @@ Każda karta ma własne repozytorium, instalację przez HACS, kreator i automaty
   <img src="https://img.shields.io/badge/karty-1%20gotowa%20%C2%B7%202%20w%20drodze-2e7d32?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Karty">
   <a href="https://community.home-assistant.io/"><img src="https://img.shields.io/badge/forum-Home%20Assistant-41BDF5?style=for-the-badge&logo=discourse&logoColor=white" alt="Forum HA"></a>
   <a href="https://forum.arturhome.pl/"><img src="https://img.shields.io/badge/forum%20PL-arturhome.pl-dc143c?style=for-the-badge&logo=discourse&logoColor=white" alt="Forum PL"></a>
-  <a href="#️-licencja"><img src="https://img.shields.io/badge/licencja-CC%20BY--NC--SA%204.0-green?style=for-the-badge" alt="Licencja"></a>
+  <a href="#licencja"><img src="https://img.shields.io/badge/licencja-CC%20BY--NC--SA%204.0-green?style=for-the-badge" alt="Licencja"></a>
 </p>
 
+<a name="spis-tresci"></a>
 ## 📑 Spis treści
 
-- [✨ Co łączy moje karty](#-co-łączy-moje-karty)
-- [🪟 Okna i rolety](#-okna-i-rolety)
-- [🛠 W przygotowaniu](#-w-przygotowaniu)
-- [⬇️ Jak zainstalować dowolną kartę](#️-jak-zainstalować-dowolną-kartę)
-- [🔄 Aktualizacje](#-aktualizacje)
-- [❓ Pomoc i forum](#-pomoc-i-forum)
-- [⚖️ Licencja](#️-licencja)
+- [✨ Co łączy moje karty](#co-laczy-moje-karty)
+- [🪟 Okna i rolety](#okna-i-rolety)
+- [🛠 W przygotowaniu](#w-przygotowaniu)
+- [⬇️ Jak zainstalować dowolną kartę](#jak-zainstalowac-dowolna-karte)
+- [🔄 Aktualizacje](#aktualizacje)
+- [❓ Pomoc i forum](#pomoc-i-forum)
+- [⚖️ Licencja](#licencja)
 
 ---
 
+<a name="co-laczy-moje-karty"></a>
 ## ✨ Co łączy moje karty
 
 | 🪄 Kreator | 🔍 Same wykrywają | 🌍 Twój język | 🎨 Jak prawdziwe | 📱 Na telefon | 🔄 Aktualizacje |
@@ -38,6 +40,7 @@ Każda karta ma własne repozytorium, instalację przez HACS, kreator i automaty
 
 ---
 
+<a name="okna-i-rolety"></a>
 ## 🪟 Okna i rolety
 
 <table>
@@ -54,7 +57,7 @@ Roleta dzień-noc (zebra) na oknie jak prawdziwa. Przesuwasz ją palcem, animacj
 [![Gwiazdki](https://img.shields.io/github/stars/superdarco78/roleta-realistyczna?style=for-the-badge&label=gwiazdki&color=f9a825&logo=github)](https://github.com/superdarco78/roleta-realistyczna/stargazers)
 
 [![Otwórz w HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=superdarco78&repository=roleta-realistyczna&category=plugin)
-&nbsp; [📖 Pełna instrukcja](https://github.com/superdarco78/roleta-realistyczna#-spis-treści) · [🇬🇧 English](https://github.com/superdarco78/roleta-realistyczna/blob/main/README_EN.md)
+&nbsp; [📖 Pełna instrukcja](https://github.com/superdarco78/roleta-realistyczna#spis-tresci) · [🇬🇧 English](https://github.com/superdarco78/roleta-realistyczna/blob/main/README_EN.md)
 
 </td>
 </tr>
@@ -75,6 +78,7 @@ Roleta dzień-noc (zebra) na oknie jak prawdziwa. Przesuwasz ją palcem, animacj
 
 ---
 
+<a name="w-przygotowaniu"></a>
 ## 🛠 W przygotowaniu
 
 | Karta | Co będzie robić | Stan |
@@ -86,6 +90,7 @@ Chcesz wiedzieć, kiedy wyjdą? Kliknij **Watch → Custom → Releases** na str
 
 ---
 
+<a name="jak-zainstalowac-dowolna-karte"></a>
 ## ⬇️ Jak zainstalować dowolną kartę
 
 Każda karta instaluje się tak samo, w 4 krokach:
@@ -99,10 +104,12 @@ Każda karta instaluje się tak samo, w 4 krokach:
 
 Bez HACS też się da. Każda karta ma w instrukcji rozdział „Ręcznie” z obrazkami.
 
+<a name="aktualizacje"></a>
 ## 🔄 Aktualizacje
 
 Gdy wyjdzie nowa wersja, HACS sam pokaże **Aktualizuj**. Kliknij, odśwież stronę i gotowe. Listę zmian znajdziesz w pliku `CHANGELOG.md` każdej karty.
 
+<a name="pomoc-i-forum"></a>
 ## ❓ Pomoc i forum
 
 | Gdzie | Po co |
@@ -111,6 +118,7 @@ Gdy wyjdzie nowa wersja, HACS sam pokaże **Aktualizuj**. Kliknij, odśwież str
 | 💬 [Forum Home Assistant](https://community.home-assistant.io/) | Pytania po angielsku |
 | 💬 [Forum arturhome.pl](https://forum.arturhome.pl/) | Pytania po polsku |
 
+<a name="licencja"></a>
 ## ⚖️ Licencja
 
 **© 2026 superdarco78.** Karty, grafiki i opisy: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pl). Możesz używać za darmo w swoim domu. Sprzedaż, odsprzedaż, publikowanie jako własne i użycie komercyjne tylko za zgodą autora.
