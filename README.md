@@ -19,7 +19,7 @@ Każda karta ma własne repozytorium, instalację przez HACS, kreator i automaty
 </p>
 
 <a name="spis-tresci"></a>
-## <a name="i4" href="#i4"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/ikony-ha3/format-list-bulleted.png" height="36" align="absmiddle"></a> Spis treści
+## <a name="i4" href="#i4"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/format-list-bulleted.png" height="36" align="absmiddle"></a> Spis treści
 
 - [Co łączy moje karty](#co-laczy-moje-karty)
 - [Okna i rolety](#okna-i-rolety)
@@ -32,21 +32,21 @@ Każda karta ma własne repozytorium, instalację przez HACS, kreator i automaty
 ---
 
 <a name="co-laczy-moje-karty"></a>
-## <a name="i5" href="#i5"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/ikony-ha3/star-four-points.png" height="36" align="absmiddle"></a> Co łączy moje karty
+## <a name="i5" href="#i5"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/star-four-points.png" height="36" align="absmiddle"></a> Co łączy moje karty
 
 <table>
-<tr><td align="center" valign="top" width="25%"><a name="i6" href="#i6"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/odstep.png" width="215" height="0"></a><br><a name="i7" href="#i7"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/ikony-ha3/auto-fix.png" height="62" alt=""></a><br><b>Kreator</b><br><sub>Prowadzi krok po kroku</sub></td><td align="center" valign="top" width="25%"><a name="i8" href="#i8"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/odstep.png" width="215" height="0"></a><br><a name="i9" href="#i9"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/ikony-ha3/magnify.png" height="62" alt=""></a><br><b>Same wykrywają</b><br><sub>Urządzenia i czujniki</sub></td><td align="center" valign="top" width="25%"><a name="i10" href="#i10"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/odstep.png" width="215" height="0"></a><br><a name="i11" href="#i11"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/ikony-ha3/translate.png" height="62" alt=""></a><br><b>Twój język</b><br><sub>Polski i angielski</sub></td><td align="center" valign="top" width="25%"><a name="i12" href="#i12"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/odstep.png" width="215" height="0"></a><br><a name="i13" href="#i13"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/ikony-ha3/palette.png" height="62" alt=""></a><br><b>Jak prawdziwe</b><br><sub>Wygląd i ruch jak w domu</sub></td></tr>
-<tr><td align="center" valign="top" width="25%"><a name="i14" href="#i14"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/odstep.png" width="215" height="0"></a><br><a name="i15" href="#i15"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/ikony-ha3/cellphone-check.png" height="62" alt=""></a><br><b>Na telefon</b><br><sub>Duże przyciski, palcem</sub></td><td align="center" valign="top" width="25%"><a name="i16" href="#i16"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/odstep.png" width="215" height="0"></a><br><a name="i17" href="#i17"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/ikony-ha3/update.png" height="62" alt=""></a><br><b>Aktualizacje</b><br><sub>Jedno kliknięcie w HACS</sub></td><td align="center" valign="top" width="25%"><a name="i18" href="#i18"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/odstep.png" width="215" height="0"></a><br><a href="#jak-zainstalowac-dowolna-karte"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/ikony-ha3/download.png" height="62" alt=""><br><b>Instalacja</b><br><sub>Przez HACS w minutę</sub></a></td><td align="center" valign="top" width="25%"><a name="i19" href="#i19"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/odstep.png" width="215" height="0"></a><br><a href="#pomoc-i-forum"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/ikony-ha3/help-circle.png" height="62" alt=""><br><b>Pomoc</b><br><sub>Forum PL i angielskie</sub></a></td></tr>
+<tr><td align="center" valign="top" width="25%"><a name="i6" href="#i6"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/odstep.png" width="215" height="0"></a><br><a name="i7" href="#i7"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/auto-fix.png" height="62" alt=""></a><br><b>Kreator</b><br><sub>Prowadzi krok po kroku</sub></td><td align="center" valign="top" width="25%"><a name="i8" href="#i8"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/odstep.png" width="215" height="0"></a><br><a name="i9" href="#i9"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/magnify.png" height="62" alt=""></a><br><b>Same wykrywają</b><br><sub>Urządzenia i czujniki</sub></td><td align="center" valign="top" width="25%"><a name="i10" href="#i10"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/odstep.png" width="215" height="0"></a><br><a name="i11" href="#i11"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/translate.png" height="62" alt=""></a><br><b>Twój język</b><br><sub>Polski i angielski</sub></td><td align="center" valign="top" width="25%"><a name="i12" href="#i12"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/odstep.png" width="215" height="0"></a><br><a name="i13" href="#i13"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/palette.png" height="62" alt=""></a><br><b>Jak prawdziwe</b><br><sub>Wygląd i ruch jak w domu</sub></td></tr>
+<tr><td align="center" valign="top" width="25%"><a name="i14" href="#i14"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/odstep.png" width="215" height="0"></a><br><a name="i15" href="#i15"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/cellphone-check.png" height="62" alt=""></a><br><b>Na telefon</b><br><sub>Duże przyciski, palcem</sub></td><td align="center" valign="top" width="25%"><a name="i16" href="#i16"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/odstep.png" width="215" height="0"></a><br><a name="i17" href="#i17"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/update.png" height="62" alt=""></a><br><b>Aktualizacje</b><br><sub>Jedno kliknięcie w HACS</sub></td><td align="center" valign="top" width="25%"><a name="i18" href="#i18"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/odstep.png" width="215" height="0"></a><br><a href="#jak-zainstalowac-dowolna-karte"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/download.png" height="62" alt=""><br><b>Instalacja</b><br><sub>Przez HACS w minutę</sub></a></td><td align="center" valign="top" width="25%"><a name="i19" href="#i19"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/odstep.png" width="215" height="0"></a><br><a href="#pomoc-i-forum"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/help-circle.png" height="62" alt=""><br><b>Pomoc</b><br><sub>Forum PL i angielskie</sub></a></td></tr>
 </table>
 
 ---
 
 <a name="okna-i-rolety"></a>
-## <a name="i20" href="#i20"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/ikony-ha3/window-shutter.png" height="36" align="absmiddle"></a> Okna i rolety
+## <a name="i20" href="#i20"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/window-shutter.png" height="36" align="absmiddle"></a> Okna i rolety
 
 <table>
 <tr>
-<td width="220" align="center"><a href="https://github.com/superdarco78/roleta-realistyczna"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/logo-ha.png" width="190" alt="Okno HA"></a></td>
+<td width="220" align="center"><a href="https://github.com/superdarco78/roleta-realistyczna"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/logo-okno-ha.png" width="190" alt="Okno HA"></a></td>
 <td>
 
 ### [Okno HA](https://github.com/superdarco78/roleta-realistyczna)
@@ -65,20 +65,20 @@ Realistyczne okno z roletą (dzień-noc, plisa, żaluzja i inne). Przesuwasz ją
 </table>
 
 <p align="center">
-  <a href="https://github.com/superdarco78/roleta-realistyczna"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/stany/dzien.png"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/stany-jasne/dzien.png" width="24%"></picture></a>
-  <a href="https://github.com/superdarco78/roleta-realistyczna"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/stany/burza.png"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/stany-jasne/burza.png" width="24%"></picture></a>
-  <a href="https://github.com/superdarco78/roleta-realistyczna"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/stany/okno.png"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/stany-jasne/okno.png" width="24%"></picture></a>
-  <a href="https://github.com/superdarco78/roleta-realistyczna"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/stany/noc.png"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/stany-jasne/noc.png" width="24%"></picture></a>
+  <a href="https://github.com/superdarco78/roleta-realistyczna"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/stany/dzien.png"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/stany-jasne/dzien.png" width="24%"></picture></a>
+  <a href="https://github.com/superdarco78/roleta-realistyczna"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/stany/burza.png"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/stany-jasne/burza.png" width="24%"></picture></a>
+  <a href="https://github.com/superdarco78/roleta-realistyczna"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/stany/okno.png"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/stany-jasne/okno.png" width="24%"></picture></a>
+  <a href="https://github.com/superdarco78/roleta-realistyczna"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/stany/noc.png"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/stany-jasne/noc.png" width="24%"></picture></a>
 </p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/animacja-ciemna.webp"><a name="i21" href="#i21"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/animacja.webp" width="320" alt="Animacja"></a></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/animacja-ciemna.webp"><a name="i21" href="#i21"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/animacja.webp" width="320" alt="Animacja"></a></picture></p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/opis-elementow-ciemny.png"><a name="i22" href="#i22"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/opis-elementow.png" width="100%"></a></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/opis-elementow-ciemny.png"><a name="i22" href="#i22"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/opis-elementow.png" width="100%"></a></picture></p>
 
 ---
 
 <a name="w-przygotowaniu"></a>
-## <a name="i23" href="#i23"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/ikony-ha3/toolbox.png" height="36" align="absmiddle"></a> W przygotowaniu
+## <a name="i23" href="#i23"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/toolbox.png" height="36" align="absmiddle"></a> W przygotowaniu
 
 | Karta | Co będzie robić | Stan |
 |---|---|:---:|
@@ -90,23 +90,23 @@ Chcesz wiedzieć, kiedy wyjdą? Kliknij **Watch → Custom → Releases** na str
 ---
 
 <a name="jak-zainstalowac-dowolna-karte"></a>
-## <a name="i24" href="#i24"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/ikony-ha3/download.png" height="36" align="absmiddle"></a> Jak zainstalować dowolną kartę
+## <a name="i24" href="#i24"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/download.png" height="36" align="absmiddle"></a> Jak zainstalować dowolną kartę
 
 Każda karta instaluje się tak samo. Co kliknąć, pokazują obrazki. Po dodaniu karty kreator zrobi resztę.
 
-<p align="center"><a name="i25" href="#i25"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/zrzuty2/pl/hacs-1.png" width="49%" alt="Krok 1"></a> <a name="i26" href="#i26"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/zrzuty2/pl/hacs-2.png" width="49%" alt="Krok 2"></a></p>
-<p align="center"><a name="i27" href="#i27"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/zrzuty2/pl/dodaj-karte.png" width="100%" alt="Krok 3"></a></p>
+<p align="center"><a name="i25" href="#i25"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/zrzuty2/pl/hacs-1.png" width="49%" alt="Krok 1"></a> <a name="i26" href="#i26"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/zrzuty2/pl/hacs-2.png" width="49%" alt="Krok 2"></a></p>
+<p align="center"><a name="i27" href="#i27"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/zrzuty2/pl/dodaj-karte.png" width="100%" alt="Krok 3"></a></p>
 
 
 Bez HACS też się da. Każda karta ma w instrukcji rozdział „Ręcznie” z obrazkami.
 
 <a name="aktualizacje"></a>
-## <a name="i29" href="#i29"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/ikony-ha3/update.png" height="36" align="absmiddle"></a> Aktualizacje
+## <a name="i29" href="#i29"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/update.png" height="36" align="absmiddle"></a> Aktualizacje
 
 Gdy wyjdzie nowa wersja, HACS sam pokaże **Aktualizuj**. Kliknij, odśwież stronę i gotowe. Listę zmian znajdziesz w pliku `CHANGELOG.md` każdej karty.
 
 <a name="pomoc-i-forum"></a>
-## <a name="i30" href="#i30"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/ikony-ha3/help-circle.png" height="36" align="absmiddle"></a> Pomoc i forum
+## <a name="i30" href="#i30"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/help-circle.png" height="36" align="absmiddle"></a> Pomoc i forum
 
 | Gdzie | Po co |
 |---|---|
@@ -115,7 +115,7 @@ Gdy wyjdzie nowa wersja, HACS sam pokaże **Aktualizuj**. Kliknij, odśwież str
 | 💬 [Forum arturhome.pl](https://forum.arturhome.pl/) | Pytania po polsku |
 
 <a name="licencja"></a>
-## <a name="i31" href="#i31"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z2/ikony-ha3/scale-balance.png" height="36" align="absmiddle"></a> Licencja
+## <a name="i31" href="#i31"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/scale-balance.png" height="36" align="absmiddle"></a> Licencja
 
 **© 2026 superdarco78.** Karty, grafiki i opisy: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pl). Możesz używać za darmo w swoim domu. Sprzedaż, odsprzedaż, publikowanie jako własne i użycie komercyjne tylko za zgodą autora.
 
